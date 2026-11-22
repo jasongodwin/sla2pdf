@@ -1,0 +1,9 @@
+{
+  "name": "Alex",
+  "date": "23/11/2026",
+  "picture": "landscape.png",
+  "message": "Every word on this card came from data.json: change the values and run the command again. Text that is too long for its frame is made smaller, step by step, until it fits.",
+  "letter": "This page shows text flowing around a round shape, a CMYK colour box with a see-through fill, and paragraph and character styles read straight from the template. Long words and longer sentences wrap the way they would in Scribus, line by line, around anything placed above the text frame.",
+  "greeting_rtl": "مرحبا Alex، أهلا وسهلا",
+  "signature": "Made with sla2pdf"
+}
